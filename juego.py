@@ -236,7 +236,7 @@ def juego():
                 if event.key == pygame.K_F1:
                     estado_hitbox = not estado_hitbox
 
-        ventana.fill((255,255,255))
+        ventana.fill(cons.COLOR_BLANCO)
 
         keys_pressed = pygame.key.get_pressed()
 

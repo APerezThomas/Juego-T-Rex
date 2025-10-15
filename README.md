@@ -35,6 +35,7 @@ Al descargar el repositorio debemos actualizar las rutas de los sprites por la r
 ## Controles
 | Tecla       | Acción             |
 | :---------- | :----------------- |
-| **Espacio** | Saltar             |
-| **Enter**   | Reiniciar el juego |
+| **Flecha hacia arriba** | Saltar             |
+| **Flecha hacia abajo**   | Agacharse |
 
+Una vez que se haya perdido se puede reiniciar con el cursor del mouse, haciendo click en el boton del centro de la pantalla.

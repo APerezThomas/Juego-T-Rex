@@ -9,10 +9,10 @@ El jugador controla un dinosaurio que debe saltar y esquivar obstáculos mientra
 ## Estructura de los archivos
 
 ```bash
-├── sprites/               # Carpeta con los recursos gráficos (dinosaurio, cactus, etc.)
-├── clases.py              # Clases principales del juego (personaje, obstáculos, superficie, etc.)
-├── constantes.py          # Variables globales, configuraciones y constantes del juego
-├── juego.py               # Archivo principal: contiene las funciones, el bucle del juego y el main()
+─ sprites/               # Carpeta con los recursos gráficos (dinosaurio, cactus, etc.)
+─ clases.py              # Clases principales del juego (personaje, obstáculos, superficie, etc.)
+─ constantes.py          # Variables globales, configuraciones y constantes del juego
+─ juego.py               # Archivo principal: contiene las funciones, el bucle del juego y el main()
 ```
 ## Ejecución
 

@@ -28,6 +28,7 @@ pip install pygame
 python juego.py
 ```
 4. Problema a solucionar:
+
 -Al descargar el repositorio debemos actualizar las rutas de los sprites por la ruta de los sprites descargardos en la pc
    
 ## Controles

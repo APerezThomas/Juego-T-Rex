@@ -18,9 +18,9 @@ El jugador controla un dinosaurio que debe saltar y esquivar obstáculos mientra
 
 Para correr el juego:
 
-1.Verificá que tengas Python 3.x instalado.
+1. Verificá que tengas Python 3.x instalado.
 
-2.Instalá Pygame:
+2. Instalá Pygame:
 ```bash
 pip install pygame
 ```
